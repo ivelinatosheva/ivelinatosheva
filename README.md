@@ -1,7 +1,6 @@
 ## Hi there, I'm Ivelina!
 
 🔹 **Data Science & Statistics Student**  
-🔹 **Aspiring Data Analyst | Machine Learning Enthusiast**  
 🔹 **Passionate about Optimization, Predictive Modeling, and Data Visualization**
 
 ### About Me
