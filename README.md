@@ -1,16 +1,22 @@
-## Hi there 👋
+## Hi there, I'm Ivelina!
 
-<!--
-**ivelinatosheva/ivelinatosheva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🔹 **Data Science & Statistics Student**  
+🔹 **Aspiring Data Analyst | Machine Learning Enthusiast**  
+🔹 **Passionate about Optimization, Predictive Modeling, and Data Visualization**
 
-Here are some ideas to get you started:
+### About Me
+I am a third year student pursuing a **double major in Data Science and Statistics** at the University of Central Florida.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills & Technologies
+- **Languages:** Python, R, SQL, C
+- **ML / Stats Tools:** Pandas, NumPy, scikit-learn
+- **Visualization:** Matplotlib, Seaborn, ggplot2
+
+### Connect with Me
+- Connect with me on [LinkedIn](https://www.linkedin.com/in/ivelinatosheva/)
+
+
+
+
+
+
