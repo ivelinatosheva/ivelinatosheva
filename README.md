@@ -1,7 +1,7 @@
 ## Hi there, I'm Ivelina!
 
 🔹 **Data Science & Statistics Student**  
-🔹 **Passionate about Optimization, Predictive Modeling, and Data Visualization**
+🔹 **Passionate about Machine Learning, Predictive Modeling, and Data Visualization**
 
 ### About Me
 I am a third year student pursuing a **double major in Data Science and Statistics** at the University of Central Florida.
