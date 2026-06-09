@@ -1,11 +1,7 @@
 ## Hi, I'm Ivelina!
 
-🔹 **Data Science Analyst**
-🔹 **B.S. in Data Science & Statistics** - University of Central Florida
-🔹 **Passionate about Machine Learning, Predictive Modeling, and Data Visualization**
-
 ### About Me
-I am Ivelina Tosheva, a **Data Science Analyst** with a dual degree in Data Science and Statistics from the University of Central Florida.
+I am Ivelina Tosheva, a **Data Science Analyst** with a **dual degree in Data Science and Statistics** from the University of Central Florida. I am passionate about **predictive modeling, automation, and data visualization**.
 
 ### Skills & Technologies
 - **Languages:** Python, R, SQL
